@@ -494,7 +494,7 @@ bool UserXY::Sort(const Event& event)
 //        if ( na_t_f>190 && na_t_f<220 && na_e_f>1195 && na_e_f<1225 ) fiss = 1;
 //new fission gated for 233U data
                     //if ( na_t_f>165 && na_t_f<185 && na_e_f>1570 && na_e_f<1700 ) fiss = 1;
-                    if ( na_t_f>160 && na_t_f<186 && na_e_f>1570 && na_e_f<1700 ) fiss = 1; //<-- ny gate 130515
+                    //if ( na_t_f>160 && na_t_f<186 && na_e_f>1570 && na_e_f<1700 ) fiss = 1; //<-- ny gate 130515
 
         }
 //****************************************************************************************************
