@@ -1,0 +1,30 @@
+.depend-SiriusRoutine.dep SiriusRoutine.o: SiriusRoutine.cpp SiriusRoutine.h UserRoutine.h \
+  Histograms.h Parameters.h Event.h Histogram1D.h Histogram2D.h \
+  /Applications/root/include/TFile.h \
+  /Applications/root/include/TDirectoryFile.h \
+  /Applications/root/include/TDirectory.h \
+  /Applications/root/include/TNamed.h \
+  /Applications/root/include/TObject.h \
+  /Applications/root/include/Rtypes.h \
+  /Applications/root/include/RConfig.h \
+  /Applications/root/include/RVersion.h \
+  /Applications/root/include/DllImport.h \
+  /Applications/root/include/Rtypeinfo.h \
+  /Applications/root/include/snprintf.h \
+  /Applications/root/include/strlcpy.h \
+  /Applications/root/include/TGenericClassInfo.h \
+  /Applications/root/include/TSchemaHelper.h \
+  /Applications/root/include/TStorage.h \
+  /Applications/root/include/TVersionCheck.h \
+  /Applications/root/include/Riosfwd.h \
+  /Applications/root/include/TBuffer.h \
+  /Applications/root/include/TString.h \
+  /Applications/root/include/TMathBase.h \
+  /Applications/root/include/TList.h \
+  /Applications/root/include/TSeqCollection.h \
+  /Applications/root/include/TCollection.h \
+  /Applications/root/include/TIterator.h \
+  /Applications/root/include/TDatime.h \
+  /Applications/root/include/TUUID.h /Applications/root/include/TMap.h \
+  /Applications/root/include/THashTable.h \
+  /Applications/root/include/TUrl.h debug.h

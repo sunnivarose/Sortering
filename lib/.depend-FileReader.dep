@@ -1,0 +1,3 @@
+.depend-FileReader.dep FileReader.o: FileReader.cpp FileReader.h \
+  /Applications/root/include/zlib.h /Applications/root/include/zconf.h \
+  Buffer.h

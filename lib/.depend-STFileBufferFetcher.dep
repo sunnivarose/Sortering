@@ -1,0 +1,3 @@
+.depend-STFileBufferFetcher.dep STFileBufferFetcher.o: STFileBufferFetcher.cpp STFileBufferFetcher.h \
+  FileBufferFetcher.h BufferFetcher.h Buffer.h FileReader.h \
+  /Applications/root/include/zlib.h /Applications/root/include/zconf.h
